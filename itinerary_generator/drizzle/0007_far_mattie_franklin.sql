@@ -1,0 +1,1 @@
+ALTER TABLE `itineraries` ADD `bgImageUrl` text;

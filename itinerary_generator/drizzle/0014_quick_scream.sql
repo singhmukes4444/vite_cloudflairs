@@ -1,0 +1,1 @@
+ALTER TABLE `transportation_segments` MODIFY COLUMN `type` enum('flight','train','car','bus','ship','taxi','other') NOT NULL DEFAULT 'flight';
